@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "632940121657",
+    "firebase_url": "https://playturaapp.firebaseio.com",
+    "project_id": "playturaapp",
+    "storage_bucket": "playturaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632940121657:android:a16246c911b62ee9",
+        "android_client_info": {
+          "package_name": "com.playtura.playtura"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632940121657-ha5if58n4ugihcijg45nvacb4s1gj5mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkAkL8Fn4eaiUWZ7oe2Cwfk6S1nTrYMO4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
